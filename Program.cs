@@ -11,9 +11,17 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+
+            int A = 10;
+            int B = 20;
+            int Sum = A + B;
+            Console.WriteLine(Sum);
+
             Console.WriteLine("Helo World");
             Console.ReadLine();
             Console.Write("I Love");
+
+
         }
     }
 }
